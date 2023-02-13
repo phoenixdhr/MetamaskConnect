@@ -1,0 +1,13 @@
+//presets para usar javascript moderno
+// para manejar asincronismo
+
+{
+    "presets" :[
+    "@babel/preset-env"
+    ],
+    
+    "plugins" :[
+    "@babel/plugin-transform-runtime"
+    ]
+    
+    }
